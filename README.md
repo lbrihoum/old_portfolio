@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby v2
+  Gatsby
 </h1>
 
 # https://www.linabrihoum.com/
